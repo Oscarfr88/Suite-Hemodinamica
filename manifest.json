@@ -1,0 +1,38 @@
+{
+  "name": "Suite Hemodinámica UCC",
+  "short_name": "Hemodinámica",
+  "description": "Calculadora hemodinámica a pie de cama: drogas de infusión, hemodinámica, mecánica ventilatoria y fluidos.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080c10",
+  "theme_color": "#080c10",
+  "orientation": "any",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
